@@ -3,3 +3,14 @@
     bottom: 0;
     width: 100%;        /* Footer height */
   }
+
+  #title {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+
+  #image {
+    background: url(../images/main.jpg) no-repeat center center;
+    background-size: contain;
+    height: 300px;
+  }
